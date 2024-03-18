@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," Temperature Sensor [TMP36]"
+"Rpot2",1,"250 kΩ Potentiometer"
+"SERVO1",1,"Positional Micro Servo"
